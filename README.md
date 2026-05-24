@@ -13,7 +13,11 @@
 
 ## 🎬 Demo
 
+<div align="center">
+
 https://github.com/user-attachments/assets/4cda38fc-cc3c-45da-b163-4fbf198e68b7
+
+</div>
 
 ---
 
