@@ -14,7 +14,7 @@ interface BalanceCardProps {
 }
 
 export function BalanceCard({
-  name = 'Firstname Lastname',
+  name = 'Chanatip Chueycherm',
   avatarUrl,
   balance,
   income,
